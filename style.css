@@ -148,3 +148,26 @@ footer{
     position: absolute;
     top: 0px;
 }
+
+/* fitur jam */
+
+.jam-digital-malasngoding {
+    overflow: hidden;
+    width: 330px;
+    margin: 20px auto;
+    border: 5px solid #b1b1b1;
+}
+.kotak{
+    float: left;
+    width: 110px;
+    height: 100px;
+    background-color: #3f4144;
+}
+.jam-digital-malasngoding p {
+    color: rgb(224, 224, 224);
+    font-size: 36px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* end fitur jam*/
