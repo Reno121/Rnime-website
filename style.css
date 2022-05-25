@@ -10,40 +10,6 @@ body {
 
 /* navbar */
 
-nav {
-   margin:auto;
-   text-align: center;
-   width: 100%;
-   font-family: arial;
-} 
-
-nav ul {
-   background:#00a0fd;
-   padding: 0 20px;
-   list-style: none;
-   position: relative;
-   display: inline-table;
-   width: 100%;
-}
-
-nav ul li{
-   float:left;
-}
-
-nav ul li:hover{
-   background:#ccdbdd;
-}
-
-nav ul li:hover a{
-    color:#000;
-}
-
-nav ul li a{
-    display: block;
-    padding: 25px;
-    color: #fff;
-    text-decoration: none;
-}
 
 /* list font */
 
@@ -90,24 +56,6 @@ h3{
     font-family: 'open-sans-bold';
 }
 
-input[type=text] {
-    width: 130px;
-    box-sizing: border-box;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    font-size: 16px;
-    background-color: rgb(46, 46, 46);
-    background-image: url('searchicon.png');
-    background-position: 10px 10px; 
-    background-repeat: no-repeat;
-    padding: 12px 20px 12px 40px;
-    -webkit-transition: width 1.0s ease-in-out;
-    transition: width 1.0s ease-in-out;
-}
-
-input[type=text]:focus {
-    width: 52%;
-}
 
 /* Header,article dan footer*/
 
